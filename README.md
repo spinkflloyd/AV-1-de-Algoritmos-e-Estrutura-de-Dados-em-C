@@ -50,6 +50,8 @@ Um sistema de atendimento recebe solicitações com prioridade **baixa**, **méd
 
 - A fila é uma **única lista duplamente encadeada**, com os nós alocados dinamicamente.
 
+<div align="center">
+
 ## 🛠️ Tecnologias
 
 | Linguagem |
